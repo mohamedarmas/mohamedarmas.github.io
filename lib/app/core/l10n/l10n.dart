@@ -1,1 +1,0 @@
-export 'localizations/localizations.dart';
